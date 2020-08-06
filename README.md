@@ -1,3 +1,4 @@
+fork test
 <h1 align="center"><a href="https://click-n-collect.shop"><img src="logo.svg" alt="Sylius Click 'N' Collect"></a></h1>
 
 **Sell and hand over securely during the coronavirus pandemic!**
